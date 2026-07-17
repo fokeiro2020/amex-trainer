@@ -2,7 +2,7 @@
 
 Chrome extension + auto-updating scripts for AMEX training modules.
 
-**By Sig — APLS IT**
+**By Sig — IT**
 
 ---
 
